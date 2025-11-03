@@ -1,7 +1,7 @@
 {
   "name": "com.crodaxgb.nevermorestudios",
   "version": "1.0.0",
-  "displayName": "Nevermore Studios Shared Library",
+  "displayName": "Nevermore",
   "description": "Shared library for the projects I develop.",
   "unity": "6000.2",
   "author": {
