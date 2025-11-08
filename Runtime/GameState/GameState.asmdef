@@ -1,7 +1,9 @@
 {
-    "name": "Nevermore.Gameplay",
-    "rootNamespace": "Gameplay",
-    "references": [],
+    "name": "GameState",
+    "rootNamespace": "GameState",
+    "references": [
+        "GUID:0e56b4a887e0b774ebd161fd156a4427"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
