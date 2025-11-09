@@ -33,5 +33,4 @@ namespace NevermoreStudios.Editor
         }
     }
 #endif
-    
 }
